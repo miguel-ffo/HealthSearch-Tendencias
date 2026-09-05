@@ -12,6 +12,7 @@ Projeto desenvolvido para a disciplina de **Tendências em Ciência da Computaç
 - **Rafael** (Parte 2: Embeddings Semânticos, Fusão RRF e Cross-Encoder)
 - **Vitor** (Parte 3: Interface Streamlit, Matriz Comparativa e Relatório Técnico)
 
+- ** Com auxílio de IA Generativa **
 ---
 
 ## 🚀 Como Executar
